@@ -1,4 +1,4 @@
- ## HTTP UPPERCASERER (Exercise 12 of 13)  
+## HTTP UPPERCASERER (Exercise 12 of 13)  
    
   Write an HTTP server that receives only POST requests and converts  
   incoming POST body characters to upper-case and returns it to the client.  
@@ -8,7 +8,7 @@
    
  ─────────────────────────────────────────────────────────────────────────────  
    
- ## HINTS  
+## HINTS  
    
   While you're not restricted to using the streaming capabilities of the  
   request and response objects, it will be much easier if you do.  
