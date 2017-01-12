@@ -11,7 +11,7 @@
    
  ─────────────────────────────────────────────────────────────────────────────  
    
- ## HINTS  
+## HINTS  
    
   There are two approaches you can take to this problem:  
    
